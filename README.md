@@ -1,28 +1,31 @@
 # Porfolio
 
-- 👋 Hello everyone, I’m @MarkWMavis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello everyone, I’m @MarkWMavis, a passionate coder and technology enthusiast on a journey to explore the digital realms. From turning caffeine into code to building virtual worlds with pixels and creativity, I thrive on the excitement of bringing ideas to life through lines of code and pixels. I believe that the best way to predict the future is to create it, one commit at a time. So, let's dive into the wonderful world of coding together! 🚀💻
 
-<!---
-MarkWMavis/MarkWMavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 Education:
+- Bachelor of Science in Computer Science and Software Engineering from the University of Washington.
 
-| C1 | C2 | C3 |
-|:-:|:-:| -----------:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markwmavis&theme=gruvbox&show_icons=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markwmavis&theme=gruvbox&langs_count=10&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)| Space Filler
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=markwmavis&repo=c-plus-plus&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)|Space Filler|Space Filler
+🔧 Tech Skills:
+- Proficient in .Net/C# and C++, HTML5, CSS3, and JavaScript.
+- Experience with Bootstrap and React Frameworks.
+- Skilled in web development, back-end development, and machine learning.
 
+🚀 Notable Projects:
+1. "Deep learning in Agriculture": Leveraged Python's open-source machine vision library and TensorFlow to identify efficiencies in agricultural automation.
+2. "Advancing Head Trauma Assessments": Developed an unsupervised learning-based dimensionality reduction algorithm using ultrasound imaging to predict traumatic brain injury severity.
+3. University of Washington Project: Implemented a DevOps approach as a software developer and systems administrator to teach students continuous integration through a pilot course program.
 
-+ First List Item
-...................
-+ Second List Item
-+ Third list item
+📸 When I'm not in front of a screen:
+- I have a passion for photography, capturing moments that tell stories through the lens.
+- An avid traveler, I seek out new horizons and cultures to broaden my perspective.
+- Woodworking is my creative escape; there's something magical about crafting with my hands.
+- Building and graphic design are my playgrounds for turning visions into visual experiences.
+- The kitchen is my canvas, where I experiment with cooking as a form of edible art.
+- A science enthusiast at heart, I'm intrigued by the mysteries of the universe and love delving into anything science-related.
 
-
-| abc | defghi |
-:-: | -----------:
-bar | baz
+🌱 Currently Learning:
+- Expanding my knowledge of DevOps practices to streamline development and deployment workflows.
+- Exploring the world of Web APIs to create seamless and efficient communication between different software systems.
+- Working towards achieving the Azure AZ-400 certification to master the art of cloud-based solutions.
+  
+Let's connect, collaborate, and code our way to a brighter future! Feel free to reach out for a tech chat or a brainstorming session. 🤝🌟
