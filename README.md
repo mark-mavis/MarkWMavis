@@ -1,6 +1,6 @@
 # Porfolio
 
-👋 Hello everyone, I’m @MarkWMavis, a passionate coder and technology enthusiast on a journey to explore the digital realms. From turning caffeine into code to building virtual worlds with pixels and creativity, I thrive on the excitement of bringing ideas to life through lines of code. I believe that the best way to predict the future is to create it, one commit at a time. So, let's dive into the wonderful world of coding together! 🚀💻
+👋 Hello everyone, I’m Mark, a passionate coder and technology enthusiast on a journey to explore the digital realms. From turning caffeine into code to building virtual worlds with pixels and creativity, I thrive on the excitement of bringing ideas to life through lines of code. I believe that the best way to predict the future is to create it, one commit at a time. So, let's dive into the wonderful world of coding together! 🚀💻
 
 📚 Education:
 - Bachelors of Science in Computer Science and Software Engineering from the University of Washington.
